@@ -64,8 +64,3 @@ Sin embargo, ese dataset depende de variables que esta app no puede capturar sin
 Ciencia de Datos — Talento Digital (2026)
 [LinkedIn](https://www.linkedin.com/in/christian-eriza-barraza-1583682a6/) · christian.eriza@gmail.com
 
-## Próximos pasos
-
-- Alojar la app en Streamlit Community Cloud para acceso público.
-- Grabar un video técnico explicando el proyecto (YouTube).
-- Incorporar más señales al motor de recomendaciones (ej. relación entre RPE y velocidad de progreso).
